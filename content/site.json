@@ -1,0 +1,102 @@
+{
+  "whatsapp": {
+    "phone": "5521981366775",
+    "displayPhone": "(21) 98136-6775"
+  },
+  "hero": {
+    "eyebrow": "Distribuidor oficial · Desde 2014",
+    "headline1": "Materiais",
+    "headline2": "odontológicos",
+    "headlineAccent": "com qualidade que faz a diferença.",
+    "copy": "Mais de 10 anos abastecendo consultórios e laboratórios em todo o Brasil com instrumentais de alta precisão, atendimento direto e logística confiável.",
+    "ctaPrimary": "Fale conosco no WhatsApp",
+    "ctaSecondary": "Ver catálogo",
+    "waMessage": "Olá, vim pelo site e gostaria de um orçamento"
+  },
+  "trustItems": [
+    { "title": "Frete grátis", "subtitle": "Em pedidos acima de R$ 1.399", "icon": "truck" },
+    { "title": "Entrega para todo o Brasil", "subtitle": "Sedex, Jadlog e PAC", "icon": "globe" },
+    { "title": "PIX, boleto e cartão", "subtitle": "Parcelamento em até 12x", "icon": "card" },
+    { "title": "Atendimento humano", "subtitle": "Direto pelo WhatsApp", "icon": "chat" }
+  ],
+  "categories": [
+    { "slug": "forceps",  "name": "Fórceps",            "subtitle": "42 modelos · adulto e infantil",      "waMessage": "Olá, gostaria de orçamento em Fórceps" },
+    { "slug": "pinca",    "name": "Pinças",             "subtitle": "Hemostáticas, algodão, dissecção",    "waMessage": "Olá, gostaria de orçamento em Pinças" },
+    { "slug": "tesoura",  "name": "Tesouras",           "subtitle": "Cirúrgicas, Iris, Goldman-Fox",       "waMessage": "Olá, gostaria de orçamento em Tesouras" },
+    { "slug": "estojo",   "name": "Estojos",            "subtitle": "Inox, perfurados, organizadores",     "waMessage": "Olá, gostaria de orçamento em Estojos" },
+    { "slug": "seringa",  "name": "Seringas",           "subtitle": "Carpule, descartáveis, irrigação",    "waMessage": "Olá, gostaria de orçamento em Seringas" },
+    { "slug": "brocas",   "name": "Brocas",             "subtitle": "Diamantadas, carbide, cirúrgicas",    "waMessage": "Olá, gostaria de orçamento em Brocas" },
+    { "slug": "espelho",  "name": "Espelhos clínicos",  "subtitle": "Frontal, lateral, plano",             "waMessage": "Olá, gostaria de orçamento em Espelhos" },
+    { "slug": "epi",      "name": "EPI & descartáveis", "subtitle": "Luvas, máscaras, gorros, aventais",   "waMessage": "Olá, gostaria de orçamento em EPI" }
+  ],
+  "bestSellers": [
+    { "category": "Fórceps",  "name": "Fórceps adulto nº 150 — inox cirúrgico",  "price": "R$ 189,90",  "priceFrom": "R$ 229,00", "waMessage": "Olá, quero pedir Fórceps nº 150" },
+    { "category": "Pinças",   "name": "Pinça Hemostática Kelly Curva 14cm",      "price": "R$ 74,50",   "priceFrom": "R$ 89,00",  "waMessage": "Olá, quero pedir Pinça Kelly" },
+    { "category": "Brocas",   "name": "Kit Brocas Diamantadas FG · 10un",        "price": "R$ 132,00",  "priceFrom": null,        "waMessage": "Olá, quero pedir Kit Brocas Diamantadas" },
+    { "category": "Tesouras", "name": "Tesoura Goldman-Fox Reta 13cm",           "price": "R$ 96,90",   "priceFrom": null,        "waMessage": "Olá, quero pedir Tesoura Goldman-Fox" },
+    { "category": "Estojos",  "name": "Estojo Cirúrgico Inox Perfurado · 20×10", "price": "R$ 248,00",  "priceFrom": null,        "waMessage": "Olá, quero pedir Estojo Cirúrgico" },
+    { "category": "Seringas", "name": "Seringa Carpule Tradicional Inox",        "price": "R$ 119,90",  "priceFrom": "R$ 149,00", "waMessage": "Olá, quero pedir Seringa Carpule" }
+  ],
+  "institutional": {
+    "eyebrow": "Sobre · Nittinox",
+    "headline1": "Quem precisa de precisão,",
+    "headline2": "escolhe Nittinox.",
+    "copy": "Há mais de uma década, fornecemos instrumentais cirúrgicos e materiais para consultórios e laboratórios em todo o Brasil — combinando curadoria técnica, atendimento direto e logística confiável. Sem intermediários, sem promessas vazias.",
+    "stats": [
+      { "value": "10+",  "label": "Anos de mercado" },
+      { "value": "3.4k", "label": "SKUs ativos" },
+      { "value": "27",   "label": "Estados atendidos" }
+    ],
+    "ctaLabel": "Falar com nosso time",
+    "ctaWaMessage": "Olá, vim pelo site e gostaria de um orçamento",
+    "testimonial": {
+      "eyebrow": "Cliente · Depoimento",
+      "quote": "Pedidos chegam rápido, atendimento humano e instrumentais que aguentam a rotina do consultório. Virou nosso fornecedor padrão.",
+      "initials": "DR",
+      "name": "Dra. Renata Carvalho",
+      "role": "Clínica Odonto Niterói · RJ"
+    }
+  },
+  "launches": [
+    { "category": "Cirurgia",       "name": "Kit Sindesmótomo Premium · 6 peças",  "price": "R$ 489,00",   "waMessage": "Olá, quero conhecer Kit Sindesmótomo" },
+    { "category": "Endodontia",     "name": "Régua Endodôntica Magnética Inox",    "price": "R$ 158,00",   "waMessage": "Olá, quero conhecer Régua Endodôntica" },
+    { "category": "Periodontia",    "name": "Cureta Gracey 5/6 Cabo Anatômico",    "price": "R$ 92,90",    "waMessage": "Olá, quero conhecer Cureta Gracey" },
+    { "category": "Implantodontia", "name": "Chave Torquímetro Universal 5–35 N",  "price": "R$ 1.290,00", "waMessage": "Olá, quero conhecer Chave Torquímetro" },
+    { "category": "Restauradora",   "name": "Espátula Hollenback nº 3 Titânio",    "price": "R$ 78,00",    "waMessage": "Olá, quero conhecer Espátula Hollenback" },
+    { "category": "Laboratório",    "name": "Espátula nº 7 Lecron Cabo de Resina", "price": "R$ 64,90",    "waMessage": "Olá, quero conhecer Espátula Lecron" }
+  ],
+  "launchesAllWaMessage": "Olá, quero conhecer os lançamentos",
+  "ctaBanner": {
+    "eyebrow": "Atendimento direto · Sem formulário",
+    "headline1": "Pronto para abastecer",
+    "headline2": "seu consultório?",
+    "copy": "Atendimento direto com o time Nittinox, orçamento na hora e envio para todo o Brasil.",
+    "ctaLabel": "Conversar agora no WhatsApp",
+    "footnote": "resposta média · < 8 minutos em horário comercial",
+    "waMessage": "Olá, vim pelo site e gostaria de um orçamento"
+  },
+  "footer": {
+    "tagline": "Distribuidor de materiais e instrumentais odontológicos. Mais de 10 anos atendendo profissionais em todo o Brasil.",
+    "payments": ["VISA", "MASTER", "ELO", "DINERS", "AMEX", "PIX", "BOLETO"],
+    "shipping": ["SEDEX", "JADLOG", "PAC"],
+    "categoryLinks": ["Fórceps", "Pinças", "Tesouras", "Estojos", "Brocas", "EPI & descartáveis"],
+    "supportLinks": [
+      { "label": "Mais vendidos",          "href": "#mais-vendidos" },
+      { "label": "Lançamentos",            "href": "#lancamentos" },
+      { "label": "Frete e entregas",       "href": "#" },
+      { "label": "Trocas e devoluções",    "href": "#" },
+      { "label": "Política de privacidade","href": "#" }
+    ],
+    "contact": {
+      "whatsappLabel": "WhatsApp · (21) 98136-6775",
+      "phoneLabel": "Tel · (21) 3687-8280",
+      "email": "contato@nittinox.com.br",
+      "addressLine1": "Praça da Bandeira, 109 — Sobre-loja 210",
+      "addressLine2": "Rio de Janeiro · RJ"
+    },
+    "social": [
+      { "label": "Instagram", "href": "#" }
+    ],
+    "legal": "© 2026 Nittinox · CNPJ 18.354.917/0001-50 · Todos os direitos reservados."
+  }
+}
